@@ -7,3 +7,7 @@ This is my Week 1 GitHub practice repository.
 - Git
 - GitHub
 - Markdown
+
+## Course
+
+COMP423 Computer Programming
